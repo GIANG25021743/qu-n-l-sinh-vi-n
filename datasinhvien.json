@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "Hạ Trường iang ",
+        "date of birth": "07052007",
+        "diem": [
+            10.0,
+            10.0
+        ]
+    },
+    "2": {
+        "name": "nguyễn hồng đăng",
+        "date of birth": "09092007",
+        "diem": [
+            10.0,
+            10.0
+        ]
+    },
+    "3": {
+        "name": "tạm thời ",
+        "date of birth": "290321",
+        "diem": [
+            9.0,
+            8.0
+        ]
+    }
+}
